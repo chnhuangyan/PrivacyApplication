@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Privacy Protection</string>
+    <string name="categary1">Education</string>
+    <string name="categary2">Family</string>
+    <string name="categary3">Insurance</string>
+    <string name="categary4">Work</string>
+    <string name="categary5">Friendship</string>
+    <string name="categary6">Investment</string>
+    <string name="categary7">Health</string>
+    <string name="categary8">Hobby</string>
+    <string name="categary9">Property</string>
+    <string name="categary10">Profile</string>
+</resources>
